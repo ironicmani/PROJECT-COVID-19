@@ -1,9 +1,13 @@
 # CONVID - YOUR FREE HEALTH ADVISOR WITH COVID-19 ASSESMENT 👩‍⚕️ 👨‍⚕️
 
-This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+## This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 Overview:
 CONVID is a web application that aims to provide users with information on how to be cautious during COVID-19-like situations. It also offers a COVID-19 Assessment feature using Azure Health Bot to help users assess their symptoms and receive appropriate recommendations. The application is built using Azure's Static Web Apps and Health Bot services.
+
+# Azure Technologies used:
+• Static Web Apps
+• Healthbot Service
 
 # PROJECT LINK: https://orange-wave-01b89e900.3.azurestaticapps.net
 # Project Demo Video Link: 
