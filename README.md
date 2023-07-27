@@ -10,7 +10,7 @@ CONVID is a web application that aims to provide users with information on how t
 • Healthbot Service
 
 # PROJECT LINK: https://orange-wave-01b89e900.3.azurestaticapps.net
-# Project Demo Video Link: 
+# Project Demo Video Link: https://youtu.be/PCLOfwOcoDg
 
 
 Features:
