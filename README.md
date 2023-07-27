@@ -39,4 +39,11 @@ Features:
 ![Screenshot 2023-07-27 192249](https://github.com/ironicmani/PROJECT-COVID-19/assets/97545814/76e4798e-a65f-406e-b5c5-4c48fe4a24b3)
 
 
+# TECH STACK USED
+• MICROSOFT AZURE 
+• HTML
+• CSS
+• JAVASCRIPT
+• BOOTSTRAP
+
 
